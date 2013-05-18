@@ -95,7 +95,25 @@ $$\mu_k > 0$$
 和
 $$\sum_k\mu_k=1$$。
 
+###Dirichlet Distrbution
 
+The normalized form:
+
+$$
+Dir(\mu|\alpha)=\frac{\Gamma(\alpha_0)}{\Gamma(\alpha_1) \dots \Gamma(\alpha-K)}\Pi_{k=1}^K\mu_k^{\alpha_k-1}
+$$
+
+其中，$$\Gamma(x)$$ 是伽马函数，而
+$$
+\alpha_0=\sum^K_{k=1}\alpha_k
+$$
+
+用先验概率*似然函数，可以得到$$\{\mu_k\}$$的后验分布形式：
+$$
+p(\mu|D,\alpha) \propto p(D|\mu)p(\mu|\alpha)\propto \Pi_{k=1}^K\mu_k^{\alpha_k+m_k-1}
+$$
+
+还是不太懂这部分，进一步理解之后补上。
 
 
 
