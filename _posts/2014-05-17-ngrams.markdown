@@ -34,7 +34,7 @@ $$
     例子：Mark wrote a book
 
 $$
-p(Mark wrote a book)=p(Mark|BOS) * p(wrote|Mark) * p(a|wrote) * p(book|a) * p(EOS|book)
+p(Mark wrote a book)=p(Mark|BOS)*p(wrote|Mark)*p(a|wrote)*p(book|a)*p(EOS|book)
 $$
 
 也就是公式：
@@ -59,19 +59,23 @@ $$
 计算概率：p(brown read a book)
 
 $$
-p(brown|BOS) = \frac{c(<BOS>brown)}{\sum_wc(<BOS>w) = \frac{1}{3}
+p(brown|BOS) = \frac{c(BOS brown)}{\sum_w c(BOS w)} = \frac{1}{3}
 $$
+
 $$
-p(read|brown) = \frac{c(brown read)}{\sum_wc(brown w) = \frac{1}{1}
+p(read|brown) = \frac{c(brown read)}{\sum_wc(brown w)} = \frac{1}{1}
 $$
+
 $$
-p(a|read) = \frac{c(read a)}{\sum_wc(read w) = \frac{2}{3}
+p(a|read) = \frac{c(read a)}{\sum_wc(read w)} = \frac{2}{3}
 $$
+
 $$
-p(book|a) = \frac{c(a book)}{\sum_wc(a w) = \frac{1}{2}
+p(book|a) = \frac{c(a book)}{\sum_wc(a w)} = \frac{1}{2}
 $$
+
 $$
-p(<EOS>|book) = \frac{c(book <EOS>)}{\sum_wc(book w) = \frac{1}{2}
+p(EOS|book) = \frac{c(book EOS)}{\sum_wc(book w)} = \frac{1}{2}
 $$
 
 最终结果：
