@@ -18,7 +18,7 @@ category: nlp
 于是，对于一个由n个词构成的句子，它的概率公式可以这么表示：
 
 $$
-p(s) = p(w_1)p(w_2|w_1)p(w_2|w_1w_2)\dots p(w_n|pw_1\dotsw_{n-1}) = \Pi_{i=1}^np(w_i|w_1\dotsw_{n-1})
+p(s) = p(w_1)p(w_2|w_1)p(w_2|w_1w_2)\dots p(w_n|pw_1\dots w_{n-1}) = \Pi_{i=1}^np(w_i|w_1\dots w_{n-1})
 $$
 
 一般的，前面的这n-1个词就叫做历史。而计算n-1个历史词是不现实的，因为样本里也不见得有这个句子。于是，通常的作法是简化这个条件概率。
@@ -34,7 +34,7 @@ $$
     例子：Mark wrote a book
 
 $$
-p(Mark wrote a book) = p(Mark|BOS) * p(wrote|Mark) * p(a|wrote) * p(book|a) * p(EOS|book)
+p(Mark wrote a book)=p(Mark|BOS) * p(wrote|Mark) * p(a|wrote) * p(book|a) * p(EOS|book)
 $$
 
 也就是公式：
