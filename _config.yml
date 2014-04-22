@@ -1,5 +1,4 @@
 name: Sonyfe25cp的玩具
 #markdown: redcarpet
-markdown: kramdown
 pygments: true
 baseurl: /sonyfe25cp.github.io
