@@ -13,6 +13,17 @@ Jekyll这东东看着有点厉害，而且markdown看着也很厉害，周边的
 
 努力！
 
+补充说明：
+
+1.如何配置jekyll可以显示latex公式
+
+  首先，把MathJax的javascript放入head标签内
+
+  然后，把_config.yml中的markdown解析器换掉
+
+  最后，在post中，需要显示latex的地方用 双$符号来开始和标示结束即可。
+
+
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
 To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
 
