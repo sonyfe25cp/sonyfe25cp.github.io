@@ -24,9 +24,21 @@ image: /image/skyline1.png
 
 ####方法1：两个for循环，挨个比较所有的点，如果A统治B，那么去掉B，A变成统治点；否则，下一个；
 
-方法1的复杂度：$O(n&2)$
+方法1的复杂度：$$ O(n^2) $$ 
 
 ####改进的方法1：加入预排序
+
+第一步：把所有的特征加和，然后倒序排列
+
+第二步：把第一个点直接放入S(skyline set)，然后从下一个点开始跟S中的点进行比较，如果被统治，则扔掉；否则，加入S
+
+时间复杂度降低
+
+
+
+####Refer
+
+http://www.ccs.neu.edu/home/jarodwen/materials/skyline_pre.pdf
 
 	
 
