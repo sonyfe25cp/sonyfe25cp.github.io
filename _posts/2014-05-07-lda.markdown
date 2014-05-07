@@ -1,0 +1,41 @@
+---
+layout: post
+title: "LDA的学习过程"
+date: 2014-05-07 11:26:02
+category: lda
+---
+
+### 背景
+
+一直在做社会新闻的事件发现，之前主要的方法是向量空间模型与cosine相似度结合在图上进行分割，然后来发现事件。这个方法已经弱爆了，虽然效果还不错，但是遇上稍微奇葩点的新闻就废了。
+
+近几年做TDT的研究已经少了很多，开始有人用topic model来做TDT，而且效果还不错，于是需要与时俱进的学一下了！
+
+本文将会主要记录自己在学LDA过程中看的论文、视频、解决问题的途径，LDA细节的内容会在其他的blog中进行分析和记录。
+
+### LDA是什么
+
+LDA 是Topic model 的一种。
+
+### 学习的过程
+
+####1. 论文
+
+* [Blei大神的LDA论文][lda]
+
+####2. 视频
+
+* [Blei大神在某高校的课程][ldacourse]
+
+### LDA的应用
+
+* Topic models applied to Online News and Reviews. [@youtube](https://www.youtube.com/watch?v=1wcX4fEdNUo)
+
+	韩国科学技术院的一个实验室，地址<http://uilab.kaist.ac.kr>，论文看着很不赖。
+
+
+
+[lda]: http://baidu.com
+
+[ldacourse]: http://videolectures.net/mlss09uk_blei_tm/
+
