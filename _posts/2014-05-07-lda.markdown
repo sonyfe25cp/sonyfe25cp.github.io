@@ -19,13 +19,25 @@ LDA 是Topic model 的一种。
 
 ### 学习的过程
 
-####1. 论文
+####1. LDA论文
 
 * [Blei大神的LDA论文][lda]
 
 ####2. 视频
 
 * [Blei大神在某高校的课程][ldacourse]
+
+####3. Dirichlet distribution论文
+
+* [Introduction to the Dirichlet Distribution and Related Processes](http://mayagupta.org/publications/FrigyikKapilaGuptaIntroToDirichlet.pdf)
+
+* LDA的数学八卦
+
+* PRML上有对Dirichlet分布的讲解
+
+####4. Dirichlet Processing
+
+* [Dirichlet Processes A gentle tutorial](http://www.cs.cmu.edu/~kbe/dp_tutorial.pdf)
 
 ### LDA的应用
 
