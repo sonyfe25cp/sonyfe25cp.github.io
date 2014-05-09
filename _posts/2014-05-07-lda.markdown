@@ -39,6 +39,12 @@ LDA 是Topic model 的一种。
 
 * [Dirichlet Processes A gentle tutorial](http://www.cs.cmu.edu/~kbe/dp_tutorial.pdf)
 
+####5. 开源代码
+
+* ansj_fast_lda <https://github.com/ansjsun/ansj_fast_lda>
+
+
+
 ### LDA的应用
 
 * Topic models applied to Online News and Reviews. [@youtube](https://www.youtube.com/watch?v=1wcX4fEdNUo)
