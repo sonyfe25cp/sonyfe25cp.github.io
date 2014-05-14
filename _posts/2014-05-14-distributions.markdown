@@ -53,7 +53,9 @@ $$\mu_{ML}=\frac{1}{N}\sum_{n=1}^Nx_n$$
 $$
 Bin(m|N,\mu)=\binom{N}{m}\mu^m(1-\mu)^{N-m}
 $$
+
 where
+
 $$
 \binom{N}{m} \equiv \frac{N!}{(N-m)!m!}
 $$
@@ -84,7 +86,14 @@ Beta分布的期望: $$E[\mu]=\frac{a}{a+b}$$
 
 例如：$$x=(0,0,1,0,0,0)^T$$
 
-如果我们通过参数$\mu_k$来描述$x_k=1$的分布，那么这个分布就是：$$p(x|\mu)=\prod_{k=1}^{K}\mu_k^{x_k}$$,其中$$\mu=(\mu_1,\mu_2,\dots,\mu_k)^T$$,并且满足$$\mu_k > 0$$和$$\sum_k\mu_k=1$$。
+如果我们通过参数$\mu_k$来描述$$x_k=1$$的分布，那么这个分布就是：
+$$p(x|\mu)=\prod_{k=1}^{K}\mu_k^{x_k}$$
+,其中
+$$\mu=(\mu_1,\mu_2,\dots,\mu_k)^T$$
+,并且满足
+$$\mu_k > 0$$
+和
+$$\sum_k\mu_k=1$$。
 
 
 
