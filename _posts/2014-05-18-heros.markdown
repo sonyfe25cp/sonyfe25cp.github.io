@@ -1,6 +1,6 @@
 ---
-layout: default
-title: 英雄榜日记
+layout: post
+title: "英雄榜日记"
 category: project
 ---
 
