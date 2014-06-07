@@ -1,4 +1,4 @@
 name: Sonyfe25cp的玩具
 markdown: kramdown
-pygments: true
+pygments: highlighter
 baseurl: /sonyfe25cp.github.io
