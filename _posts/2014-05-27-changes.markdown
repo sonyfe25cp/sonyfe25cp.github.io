@@ -12,7 +12,7 @@ category: diary
 * 事情一
 
 某天，我在写一个句子跟一组词组进行contains的计算，虽然这东西我也知道写一坨
-{%highighlight java lienos%}
+{%highlight java lienos%}
 for(String tmp : array){
 	if(tmp.equals(key)){
 	//blablabla
@@ -32,13 +32,13 @@ for(String tmp : array){
 艾玛，看了小伙伴的代码之后，发现自己的思维固定在教科书上的结构了，对于快速实现数据结构的时候，应该利用起语言的特点和其附带的结构。
 
 代码对比：
-{%highighlight java lienos%}
+{%highlight java lienos%}
 class TrieNode{
 public char word;
 public List<TrieNode> nodes;
 }
 {%endhighlight%}
-{%highighlight java lienos%}
+{%highlight java lienos%}
 class Trie{
 public char word;
 public Map<Character, Trie> map;
