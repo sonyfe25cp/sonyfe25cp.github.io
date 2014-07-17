@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gauss Kernel"
+title: "Gauss Kernel高斯核"
 category: ml
 image: /image/gauss.png
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gibbs Sampling"
+title: "Gibbs Sampling吉布斯采样"
 category: ml
 ---
 
