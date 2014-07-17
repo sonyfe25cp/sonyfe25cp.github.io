@@ -2,7 +2,6 @@
 layout: post
 title: "Kernel density estimate 核密度估计"
 category: ml
-#image: /image/gauss.png
 ---
 
 ###Kernel density estimate

@@ -2,7 +2,6 @@
 layout: post
 title: "Correlation Coefficient 相关系数"
 category: ml
-#image: /image/gauss.png
 ---
 
 ###Correlation Coefficient
