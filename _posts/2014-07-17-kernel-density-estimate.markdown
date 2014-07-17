@@ -15,12 +15,10 @@ category: ml
 
 下面选取了1956-1984年飞机尾翼跨度的数据子集(2, 22, 42, 62, 82, 102, 122, 142, 162, 182, 202 and 222).这些点在x轴上用'+'标记.
 
-/image/kds-hist1.png
+<img src="/image/kds-hist1.png" width="100%">
 
 在图1中, 选择宽度为0.5, 从整数点开始放置bin,直方图的形状是单峰,并且向右倾斜.
 
-
-/image/kds-hist2.png
 
 ![hist2](/image/kds-hist2.png "hist2")
 
@@ -44,7 +42,7 @@ c) 依赖bind宽度
 
 去掉对bin结束点的依赖,将块在数据点处进行集中.
 
-/image/kds-hist3.png
+![hist3](/image/kds-hist3.png "hist3")
 
 在图3中,我们在12个数据点上放置了宽度1/2,高度1/6的虚线盒子,然后将他们加起来. 我们可以从这个直方图中提取更加细微的结构,并且它表明了这个数据是双峰的. 
 
@@ -54,12 +52,12 @@ c) 依赖bind宽度
 
 选择一个最合适的宽度值是非常重要的,它不能够太宽,也不能够太窄.如果我们选择用标准差为0.1的正态分布曲线来替代box kernel, 就可以得到一个undersmooth的估计,如下图:
 
-/image/kds-hist4.png
+![hist4](/image/kds-hist4.png "hist4")
 
 从图上可以看出,这个密度有4个峰,其中有明显的是不对的.
 
 
-/image/kds-hist5.png
+![hist5](/image/kds-hist5.png "hist5")
 
 当选择了用0.5为标准差时,结果如上图, 我们得到了一个非常平坦的密度估计,这是由于选择了一个过大的宽度,导致丢失了数据的特性.
 
