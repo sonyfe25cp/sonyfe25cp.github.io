@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neuron Network Forward propagation"
+title: "Neuron Network Backpropagation"
 category: ml
 image: /image/neuron.jpg
 ---
