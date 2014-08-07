@@ -17,7 +17,8 @@ category: paper
 ###Sentence Modeling
 
 在TDT领域中，通常采用传统的向量空间模型去比较两个文档的相似性。特别是在新事件发现和话题跟踪方面，余弦相似度方法经常被用来判断一个新文档是否与已有的某个事件相似。
-尽管还有一些采用机器学习的方法在做语言跟踪和建模，但是向量空间模型在这方面还是最好的方法[^1]。
+尽管还有一些采用机器学习的方法在做语言跟踪和建模，但是向量空间模型在这方面还是最好的方法[^1].
+
 [^1]:G. Kumaran and J. Allan, “Text Classification and Named Entities for New Event Detection,” Proc. 27th Ann. Int’l ACM SIGIR Conf. Research and Development in Information Retrieval (SIGIR ’04), pp. 297-304, 2004.
 
 但是，当我们需要一个高准确率或者召回率的时候，它的局限性就非常明显。
