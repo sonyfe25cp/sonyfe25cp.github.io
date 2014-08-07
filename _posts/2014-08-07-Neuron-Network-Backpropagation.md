@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neuron Network Backpropagation"
-category: ml
+category: NeuralNetWork
 image: /image/neuron.jpg
 ---
 

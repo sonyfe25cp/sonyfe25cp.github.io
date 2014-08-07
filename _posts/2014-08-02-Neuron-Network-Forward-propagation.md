@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neuron Network Forward propagation"
-category: ml
+category: NeuralNetWork
 image: /image/neuron.jpg
 ---
 

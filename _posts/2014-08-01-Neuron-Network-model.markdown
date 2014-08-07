@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neuron Network Model"
-category: ml
+category: NeuralNetWork
 image: /image/neuron.jpg
 ---
 
