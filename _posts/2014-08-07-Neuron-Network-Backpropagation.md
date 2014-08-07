@@ -52,7 +52,7 @@ $$a^{(4)} = h_\Theta(x) = g(z^{(4)})$$
 
 而该网络的BP过程如下：
 损失函数是由预期值和激活值的实际误差产生。
-$$\delta^{l} = 'error' of node j in layer l$$
+$$\delta^{l}$$ = 'error' of node j in layer l
 于是：
 $$\delta^{(4)} = a^{(4)} - y_j$$
 对其他几层，则采用后一层的损失函数来继续计算
