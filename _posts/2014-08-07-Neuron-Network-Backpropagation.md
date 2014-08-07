@@ -49,8 +49,10 @@ $$\delta^{l} = 'error' of node j in layer l$$
 于是：
 $$\delta^{(4)} = a^{(4)} - y_j$$
 对其他几层，则采用后一层的损失函数来继续计算
-$$\delta^{(3)} = (\Theta^{(3)}^T\delta^{(4)}.*g'(z^{(3)}))$$
-$$\delta^{(2)} = (\Theta^{(2)}^T\delta^{(3)}.*g'(z^{(2)})$$
+
+$$\delta^{(3)} = (\Theta^{(3)})^T\delta^{(4)}.*g'(z^{(3)}))$$
+
+$$\delta^{(2)} = (\Theta^{(2)})^T\delta^{(3)}.*g'(z^{(2)})$$
 
 技巧：$$g'(x) = x.*(1-x)$$这是因为g(x)是sigmod函数，才有的特性
 
