@@ -12,53 +12,50 @@
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
         <script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    extensions: ["tex2jax.js"],
-    jax: ["input/TeX", "output/HTML-CSS"],
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
-      processEscapes: true
-    },
-    "HTML-CSS": { availableFonts: ["TeX"] }
-  });
+            MathJax.Hub.Config({
+                extensions: ["tex2jax.js"],
+                jax: ["input/TeX", "output/HTML-CSS"],
+                tex2jax: {
+                    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                    displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+                    processEscapes: true
+                },
+                "HTML-CSS": { availableFonts: ["TeX"] }
+            });
         </script>
         <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
     </head>
     <body>
         <div class="site">
-          <div class="header">
-            <h1 class="title">
-              <a href="/">{{ site.name }}</a>
-            </h1>
-            <a class="extra" href="/">home</a>
-          </div>
-
-          {{ content }}
-
-          <div class="footer">
-            <div class="contact">
-              <p>
-                Sonyfe25cp<br />
-                一个喜欢玩游戏的码农<br />
-                sonyfe25cp@gmail.com
-              </p>
+            <div class="header">
+                <h1 class="title">
+                    <a href="/">{{ site.name }}</a>
+                </h1>
+                <a class="extra" href="/">home</a>
             </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/sonyfe25cp">github.com/sonyfe25cp</a><br />
-                <a href="http://weibo.com/omartech">Sonyfe25cp的微博</a><br />
-                <a href="http://omartech.com">OmarTech</a><br />
-              </p>
+
+            {{ content }}
+
+            <div class="footer">
+                <div class="contact">
+                    <p>
+                    Sonyfe25cp<br />
+                    一个喜欢玩游戏的码农<br />
+                    sonyfe25cp@gmail.com
+                    </p>
+                </div>
+                <div class="contact">
+                    <p>
+                    <a href="https://github.com/sonyfe25cp">github.com/sonyfe25cp</a><br />
+                    <a href="http://weibo.com/omartech">Sonyfe25cp的微博</a><br />
+                    <a href="http://omartech.com">OmarTech</a><br />
+                    </p>
+                </div>
             </div>
-          </div>
         </div>
-<div>
-<a href="https://www.upyun.com/"><img src="http://upfiles.b0.upaiyun.com/logo/90x45.png" alt="UPYUN"></a>
-</div>
-<script type="text/javascript">
-var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
-document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F122929ef69d39afe6297dd148a68a785' type='text/javascript'%3E%3C/script%3E"));
-</script>
+        <script type="text/javascript">
+            var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+            document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F122929ef69d39afe6297dd148a68a785' type='text/javascript'%3E%3C/script%3E"));
+        </script>
     </body>
 </html>
