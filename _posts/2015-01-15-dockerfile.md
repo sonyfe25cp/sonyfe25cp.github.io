@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Docker入门之如何用Dockerfile
+title: "Docker入门之如何用Dockerfile"
 category: docker
 ---
 
