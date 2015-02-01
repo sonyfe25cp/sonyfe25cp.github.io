@@ -9,6 +9,7 @@ category: plan
 * 2月7号waim demo abstract
 * 2月14号 waim demo final
 * 2月17号提交Trec最终版本论文
+* 2月18号SigIR short paper due
 * 开题报告初稿
 * 多文档摘要文献综述
 * 简历解析文献综述
@@ -47,9 +48,10 @@ category: plan
 ### Important Dates
 * 2月2 专利申请书联系张老师
 * 2月7 WAIM Demo abstract
+* 2月10 Caise论文结果
 * 2月14 waim demo deadline
 * 2月17 Trec论文
-* 2月10 Caise论文结果
+* 2月18 SigIr short paper
 * 3月14 WAIM论文结果
 * 4月20 提交盲审
 
