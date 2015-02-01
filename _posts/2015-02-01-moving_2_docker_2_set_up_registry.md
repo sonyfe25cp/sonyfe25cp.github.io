@@ -38,7 +38,7 @@ category: docker
 
 登陆你的DigitalOcean账号，并创建一个预安装了Docker镜像的Droplet，如下图：
 
---->image,s1
+<img src="/image/0201/s1.png" width="100%"/>
 
 你会在email中收到root用户的登录凭证。登陆并运行`docker ps`来确认机器可以正常工作。
 
@@ -48,21 +48,22 @@ category: docker
 
 登陆AWS账号（如果你没有，可以在[http://aws.amazon.com/](http://aws.amazon.com)注册一个），然后选择S3服务，如下图：
 
-image,s2
+<img src="/image/0201/s2.png" width="100%"/>
 
 点击创建Bucket，输入该bucket的唯一码（记下来，后面还要用到），然后点击生成，如下图：
 
-image s3
+<img src="/image/0201/s3.png" width="100%"/>
 
 我们已经完成了创建存储的部分。
 
 ###安装AWS登陆凭证
 接下来我们将创建一个新用户。回到AWS的控制台界面，选择IAM（Identity & Access Management）。
-image s4
+
+<img src="/image/0201/s4.png" width="100%"/>
 
 你会看到下面这个界面：
 
-image s5
+<img src="/image/0201/s5.png" width="100%"/>
 
                            
 用户需要授权密钥来启用通过REST或者Query协议来连接AWS的服务API。如果需要连接AWS的管理终端，在完成这个向导之后在用户面板创建一个密码就行。
@@ -74,7 +75,7 @@ image s5
 ###设置权限
 选择一个策略模板，创建一个策略或者自定义一个策略。策略是一个文档，它包含一个或者多个权限，可以通过下面这个界面来修改策略或者通过用户、组和角色页面来修改。
 
-image s7
+<img src="/image/0201/s7.png" width="100%"/>
 
 下面是一个自定义的策略：
 	
