@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《Moving to Docker》系列之二：搭建一个私有registry服务"
+title: "《Moving to Docker》系列之三：基于Docker的Rails自动化部署"
 category: docker
 ---
 
