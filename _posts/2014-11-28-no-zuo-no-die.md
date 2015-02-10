@@ -6,11 +6,11 @@ category: plan
 ---
 ###Todo List From 20150130 To 20150420
 
-* 2月7号waim demo abstract
+* 2月7号waim demo abstract  √
 * 2月14号 waim demo final
 * 2月17号提交Trec最终版本论文
 * 2月18号SigIR short paper due
-* 开题报告初稿
+* 开题报告初稿  √
 * 多文档摘要文献综述
 * 简历解析文献综述
 * 企业网络信誉评价模型综述
