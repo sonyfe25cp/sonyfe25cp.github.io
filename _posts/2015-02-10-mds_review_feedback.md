@@ -74,7 +74,7 @@ ok，添加相应的参考文献。
 
 	In your definition of "Aging feature" it is unclear what F denotes and I am wondering what we gain by multiplying F with F^-1. You also mention a decay factor beta which I cannot find in any of the formulas.
 	
-beta..F^-1
+beta..F^-1,确认公式，确认参数。
 
 	Given a word w you mention the variance of w but probably you mean the variance of the energy?
 	
