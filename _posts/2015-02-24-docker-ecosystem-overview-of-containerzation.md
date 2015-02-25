@@ -112,9 +112,5 @@ Docker已经为开发者和管理员提供一个简单的平台来创建和部�
 5. 调度与编制（翻译中）
 
 
-**原文链接：[The Docker Ecosystem: An Overview of Containerization](https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-an-overview-of-containerization) （译者：陈杰）**
-
-===============================================
-**译者介绍**
-**陈杰**，北京理工大学计算机学院在读博士，研究方向是自然语言处理在企业网络信誉评价方面的应用，平时也乐于去实现一些突发的想法。在疲于配置系统环境时发现了Docker，跟大家一起学习、使用和研究Docker。
+**原文链接：[The Docker Ecosystem: An Overview of Containerization](https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-an-overview-of-containerization)**
 
