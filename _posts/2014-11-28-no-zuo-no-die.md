@@ -7,9 +7,9 @@ category: plan
 ###Todo List From 20150130 To 20150420
 
 * 2月7号waim demo abstract  √
-* 2月14号 waim demo final
+* 2月14号 waim demo final x
 * 2月17号提交Trec最终版本论文
-* 2月18号SigIR short paper due
+* 2月18号SigIR short paper due x
 * 开题报告初稿  √
 * 多文档摘要文献综述
 * 简历解析文献综述
@@ -22,7 +22,7 @@ category: plan
 * 著作权申请书 √
 * 著作权提交
 * 微信账号抓取 √
-* 微信文章抓取
+* 微信文章抓取 √
 * webrisk1.0版本 
   新闻 √
   评论
@@ -46,12 +46,12 @@ category: plan
 
 
 ### Important Dates
-* 2月2 专利申请书联系张老师
-* 2月7 WAIM Demo abstract
-* 2月10 Caise论文结果
-* 2月14 waim demo deadline
+* 2月2 专利申请书联系张老师 x
+* 2月7 WAIM Demo abstract √
+* 2月10 Caise论文结果 x
+* 2月14 waim demo deadline x
 * 2月17 Trec论文
-* 2月18 SigIr short paper
+* 2月18 SigIr short paper x
 * 3月14 WAIM论文结果
 * 4月20 提交盲审
 
