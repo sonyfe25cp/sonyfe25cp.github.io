@@ -36,7 +36,7 @@ category: plan
   税收
   工商数据
 * 评论质量模型，实验，论文
-* 校招数据索引
+* 校招数据索引 √
 * 微信文章站
 * DNS Monitor项目功能调整
 * 软工著作
@@ -50,10 +50,14 @@ category: plan
 * 2月7 WAIM Demo abstract √
 * 2月10 Caise论文结果 x
 * 2月14 waim demo deadline x
-* 2月17 Trec论文
+* 2月17 Trec论文 √
 * 2月18 SigIr short paper x
 * 3月14 WAIM论文结果
+* 3月31 HRMS http://www.dexa.org/biokdd2015 第一届，HR相关
+* 4月7号 Biological Knowledge Discovery and Data Mining (BIOKDD2015),第六届，BIO相关
 * 4月20 提交盲审
+* 4月21 BIOKDD acceptence http://www.dexa.org/biokdd2015
+* 4月30 HRMS acceptance
 
 ###毕设有关
 
