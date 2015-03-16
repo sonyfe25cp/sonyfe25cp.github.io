@@ -29,3 +29,9 @@ express the topic -> expand the topic
 that is -> i.e.
 
 we use somthing -> somthing is adopted
+
+at scale 大规模
+
+an elegant solution 一个优雅的方案：
+
+As a consequence 因此

@@ -8,7 +8,7 @@ category: plan
 
 * 2月7号waim demo abstract  √
 * 2月14号 waim demo final x
-* 2月17号提交Trec最终版本论文
+* 2月17号提交Trec最终版本论文 √
 * 2月18号SigIR short paper due x
 * 开题报告初稿  √
 * 多文档摘要文献综述
@@ -52,12 +52,14 @@ category: plan
 * 2月14 waim demo deadline x
 * 2月17 Trec论文 √
 * 2月18 SigIr short paper x
-* 3月14 WAIM论文结果
+* 3月14 WAIM论文结果 √
+* 3月24 WAIM final paper
 * 3月31 HRMS http://www.dexa.org/biokdd2015 第一届，HR相关
 * 4月7号 Biological Knowledge Discovery and Data Mining (BIOKDD2015),第六届，BIO相关
 * 4月20 提交盲审
 * 4月21 BIOKDD acceptence http://www.dexa.org/biokdd2015
 * 4月30 HRMS acceptance
+* 5月31 3rd-ICATC-2015 http://www.icatc.org/index.html
 
 ###毕设有关
 
