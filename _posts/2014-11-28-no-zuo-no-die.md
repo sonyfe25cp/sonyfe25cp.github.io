@@ -54,12 +54,40 @@ category: plan
 * 2月18 SigIr short paper x
 * 3月14 WAIM论文结果 √
 * 3月24 WAIM final paper
+* 3月24 APWeb abstract paper
+* 3月26 WebDB paper http://dbweb.enst.fr/events/webdb2015/
 * 3月31 HRMS http://www.dexa.org/biokdd2015 第一届，HR相关
+* 3月31 APWeb Research Paper
 * 4月7号 Biological Knowledge Discovery and Data Mining (BIOKDD2015),第六届，BIO相关
 * 4月20 提交盲审
 * 4月21 BIOKDD acceptence http://www.dexa.org/biokdd2015
+* 4月24 WebDB acceptence
 * 4月30 HRMS acceptance
 * 5月31 3rd-ICATC-2015 http://www.icatc.org/index.html
+* 5月31 APWeb acceptence notifaction
+
+###研究点
+
+* 多文本摘要 √
+  论文投稿中
+* 简历抽取算法 √
+  论文已中 √
+  再扩展成一个长文投期刊
+* 评论质量评估 x
+  利用amazon数据、阅读别人论文、查2014和2013的WebDB论文找相关
+    数据量大
+    英文的比较难懂
+    时间有点紧张
+  利用看准人工标注数据，抽取特征，拟合分类器，看评分标准 
+    数据量小
+    实用价值高
+    中文易懂
+    分词等特征易于实现
+    WebDB
+* 大数据环境下企业网络信誉评估架构研究
+  写个中文的，投个渣渣中文期刊
+* bio文献摘要方法
+  有标注数据
 
 ###毕设有关
 
