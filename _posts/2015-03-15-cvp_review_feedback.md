@@ -63,8 +63,9 @@ Experiments on a real world data set of Chinese resumes shows the effectiveness 
 2) Table 2 shows, the performance of the proposed method is not as good as PROSPECT. The reason by the authors is that, the results are acquired on different corpus. The authors are expected to realize and test the PROSPECT algorithm on the same corpus.
 
 	希望能把PROSPECT在自己数据集上跑一边，这不现实啊。CRF标注的话，差距太明显了。
-​
+
 ###Masked Reviewer ID:	Assigned_Reviewer_3
+
 Review:	
 
 Question	 
