@@ -95,8 +95,10 @@ ok，没有讲清楚不同方法的差异。
 
 	For the evaluation you use two different setups (1 and 2) where you apply over-sampling to improve the performance in 2. This, however, is not done for the competing approaches. Therefore, IMHO the competition must be compared to your approach 1. In this setting though, your approach 1, while showing decent results, is constantly dominated by L2RTS. Therefore, I think your statement that it performs better than L2RTS is not entirely true. I wonder how L2RTS performs with oversampling.
 
-方法2比方法1多了oversampling。
-而L2RTS比方法2差，比方法一好，也就说明是oversampling有了帮助。
+方法1采用了全部特征+svm训练
+方法2采用了全部特征+svm+oversampling
+若证明特征起作用，应该方法1 》L2RTS，而方法2 》方法1 只能说明oversampling也有作用，并不能说明是特征起了作用。
+于是需要对比一下，当L2RTS也用oversampling的话，结果是谁比较好。
 那么L2RTS如果也用oversampling呢？补一组实验。
 
 
@@ -126,8 +128,11 @@ but these steps was not explicitly shown in the paper.
 	What are Rouge-1 and Rouge-2 ?
 
 额，你不知道Rouge-1和Rouge-2的话，你也不应该来审这篇稿子。
+具体如何计算Rouge-1呢？？
 
 	Give further explanation for Fig.1. What is the unique step/feature that make this method different from other similar works?
+
+**如果要分析是特征起了作用，需要将特征进行排列组合，验证确实是增加了特征才使得结果变好！**
 	
 
 
