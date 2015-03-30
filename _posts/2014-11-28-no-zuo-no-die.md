@@ -55,8 +55,8 @@ category: plan
 * 3月14 WAIM论文结果 √
 * 3月24 WAIM final paper √
 * 3月24 APWeb abstract paper √
-* 3月26 WebDB paper http://dbweb.enst.fr/events/webdb2015/
-* 3月31 HRMS http://www.dexa.org/biokdd2015 第一届，HR相关
+* 3月31 WebDB paper http://dbweb.enst.fr/events/webdb2015/
+* 3月31 HRMS http://hrms.uib.es/ 第一届，HR相关
 * 3月31 APWeb Research Paper 
 * 4月7号 Biological Knowledge Discovery and Data Mining (BIOKDD2015),第六届，BIO相关
 * 4月20 提交盲审
