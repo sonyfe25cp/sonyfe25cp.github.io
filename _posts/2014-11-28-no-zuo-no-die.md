@@ -55,16 +55,17 @@ category: plan
 * 3月14 WAIM论文结果 √
 * 3月24 WAIM final paper √
 * 3月24 APWeb abstract paper √
-* 3月31 WebDB paper http://dbweb.enst.fr/events/webdb2015/
-* 3月31 HRMS http://hrms.uib.es/ 第一届，HR相关
-* 3月31 APWeb Research Paper 
-* 4月7号 Biological Knowledge Discovery and Data Mining (BIOKDD2015),第六届，BIO相关
+* 3月31 WebDB paper http://dbweb.enst.fr/events/webdb2015/ x
+* 3月31 HRMS http://hrms.uib.es/ 第一届，HR相关 x
+* 3月31 APWeb Research Paper √
+* 4月7号 Biological Knowledge Discovery and Data Mining (BIOKDD2015),第六届，BIO相关 x
 * 4月20 提交盲审
-* 4月21 BIOKDD acceptence http://www.dexa.org/biokdd2015
-* 4月24 WebDB acceptence
-* 4月30 HRMS acceptance
+* 4月20 ATC2015 http://www.cybermatics.org/SWC2015/ATC/ATC2015.htm EI index 北京科技大学，信任网络
+* 4月20 CBDCom2015 http://www.cybermatics.org/SWC2015/CFP/CBDCom2015_CFP_v3.0.pdf 北京 大数据相关
+* 5月4号 CoNLL 2015 http://www.conll.org/cfp-2015
 * 5月31 3rd-ICATC-2015 http://www.icatc.org/index.html
 * 5月31 APWeb acceptence notifaction
+* 6月15 CoNLL acceptence
 * 6月30 KSEM 霞姐是member
 
 ###研究点
@@ -79,7 +80,7 @@ category: plan
     数据量大
     英文的比较难懂
     时间有点紧张
-  利用看准人工标注数据，抽取特征，拟合分类器，看评分标准 
+  利用看准人工标注数据，抽取特征，拟合分类器，看评分标准  √
     数据量小
     实用价值高
     中文易懂
