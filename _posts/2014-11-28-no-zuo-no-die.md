@@ -59,14 +59,17 @@ category: plan
 * 3月31 HRMS http://hrms.uib.es/ 第一届，HR相关 x
 * 3月31 APWeb Research Paper √
 * 4月7号 Biological Knowledge Discovery and Data Mining (BIOKDD2015),第六届，BIO相关 x
-* 4月20 提交盲审
+* 4月20 提交盲审 x
 * 4月20 ATC2015 http://www.cybermatics.org/SWC2015/ATC/ATC2015.htm EI index 北京科技大学，信任网络
 * 4月20 CBDCom2015 http://www.cybermatics.org/SWC2015/CFP/CBDCom2015_CFP_v3.0.pdf 北京 大数据相关
+* 4月20号之前注册 waim 3800元 √
 * 5月4号 CoNLL 2015 http://www.conll.org/cfp-2015
 * 5月31 3rd-ICATC-2015 http://www.icatc.org/index.html
+* 5月31 EMNLP http://www.emnlp2015.org/
 * 5月31 APWeb acceptence notifaction
 * 6月15 CoNLL acceptence
 * 6月30 KSEM 霞姐是member
+* 7月24 EMNLP acceptence notifaction
 
 ###研究点
 
