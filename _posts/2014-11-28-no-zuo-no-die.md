@@ -60,10 +60,14 @@ category: plan
 * 3月31 APWeb Research Paper √
 * 4月7号 Biological Knowledge Discovery and Data Mining (BIOKDD2015),第六届，BIO相关 x
 * 4月20 提交盲审 x
-* 4月20 ATC2015 http://www.cybermatics.org/SWC2015/ATC/ATC2015.htm EI index 北京科技大学，信任网络
-* 4月20 CBDCom2015 http://www.cybermatics.org/SWC2015/CFP/CBDCom2015_CFP_v3.0.pdf 北京 大数据相关
+* 4月20 ATC2015 http://www.cybermatics.org/SWC2015/ATC/ATC2015.htm EI index 北京科技大学，信任网络 x
+* 4月20 CBDCom2015 http://www.cybermatics.org/SWC2015/CFP/CBDCom2015_CFP_v3.0.pdf 北京 大数据相关 x
 * 4月20号之前注册 waim 3800元 √
+* 4月30号BigData会议 EI http://perso.orange.es/web126209/ 一个月
+* 5月1号 IDCS 2015 EI http://idcs2015.reading.ac.uk/submissions.html 二十天
 * 5月4号 CoNLL 2015 http://www.conll.org/cfp-2015
+* 5月22号 IDCS 2015 acceptance
+* 5月28 BigData会议 acceptance
 * 5月31 3rd-ICATC-2015 http://www.icatc.org/index.html
 * 5月31 EMNLP http://www.emnlp2015.org/
 * 5月31 APWeb acceptence notifaction
