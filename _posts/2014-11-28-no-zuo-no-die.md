@@ -63,9 +63,13 @@ category: plan
 * 4月20 ATC2015 http://www.cybermatics.org/SWC2015/ATC/ATC2015.htm EI index 北京科技大学，信任网络 x
 * 4月20 CBDCom2015 http://www.cybermatics.org/SWC2015/CFP/CBDCom2015_CFP_v3.0.pdf 北京 大数据相关 x
 * 4月20号之前注册 waim 3800元 √
-* 4月30号BigData会议 EI http://perso.orange.es/web126209/ 一个月
 * 5月1号 IDCS 2015 EI http://idcs2015.reading.ac.uk/submissions.html 二十天
+http://dblp.uni-trier.de/db/conf/idcs/idcs2014.html#GanzhaMPO14
+* 5月1号 CIKM abstract http://www.cikm-2015.org/key-dates.php
 * 5月4号 CoNLL 2015 http://www.conll.org/cfp-2015
+* 5月7号BigData会议 EI http://perso.orange.es/web126209/ 一个月
+http://dblp.uni-trier.de/db/conf/ficloud/ficloud2014.html
+* 5月8号 CIKM FULL PAPER
 * 5月22号 IDCS 2015 acceptance
 * 5月28 BigData会议 acceptance
 * 5月31 3rd-ICATC-2015 http://www.icatc.org/index.html
