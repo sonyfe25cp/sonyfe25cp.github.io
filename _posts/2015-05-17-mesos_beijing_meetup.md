@@ -8,13 +8,13 @@ category: docker
 
 5月17日下午，Mesos北京线下交流会在数人科技会议室举行，来自各行业对Mesos感兴趣的约40名技术人参加了此次活动，其中Hyper的创始人王旭对Hyper做了技术报告，LeiSu对IBM EGO做了详细的介绍，之后树人科技的Chen Fu对Mesos的最佳实践进行了技术分享。
 
-<image src="/image/0517/Haolin.jpg" style="width:100%">
+<image src="/image/0517/Haolin.jpg" style="width:100%"/>
 
 活动开始，郝林宣布本次线下活动正式开始，然后对下午的活动内容做了介绍，对树人科技的支持表示感谢，并欢迎参会人员。
 
 ###王旭：Hyper技术分享
 
-<image src="/image/0517/Hyper.jpg" style="width:100%">
+<image src="/image/0517/Hyper.jpg" style="width:100%"/>
 
 在简单的自我介绍之后，王旭对自己的项目Hyper开始做分享。首先他从Mesos早期的情况进行介绍，包括其在早期主要针对的job时单一case的job，（例如：hadoop，storm，spark）。而更加通用的任务就是对于Docker的支持了。
 
@@ -29,11 +29,11 @@ category: docker
 
 ###LeiSu：IBM EGO技术分享
 
-<image src="/image/0517/IBMEGO.jpg" style="width:100%">
+<image src="/image/0517/IBMEGO.jpg" style="width:100%"/>
 
 来自IBM的LeiSu对EGO进行了分享，他先介绍市场背景，关于IBM的转型和CAMSS方面的知识。然后开始介绍DCOS的概念，引出EGO的解决方案。
 
-EGO是一个企业级资源管理的解决方案。它包含一整套的企业资源管理配置组件和策略。其中EGO的调度策略是重点。提供多种策略，包括：资源借贷、xx、xxx。Ownership、Borrow/lend, Dynamic share, Hybird, Multiple Dimension Scheduling、standby service、smart reclaim 、Resource Group Preference、Topoiogy Aware Scheduling。并针对几种情况分别举了例子。
+EGO是一个企业级资源管理的解决方案。它包含一整套的企业资源管理配置组件和策略。其中EGO的调度策略是重点。提供多种策略，包括：Ownership、Borrow/lend, Dynamic share, Hybird, Multiple Dimension Scheduling、standby service、smart reclaim 、Resource Group Preference、Topoiogy Aware Scheduling。他随后针对几种具体策略进行了详细讲解并分别举了例子说明。
 
 
 他然后介绍了DCOS在Waston QA系统中的应用、在Hadoop中的应用的情况、在EGO上schedule作业以及DCOS 在spark上的任务调度。
@@ -47,7 +47,7 @@ QA：
 
 ###Chen Fu：Dataman Mesos Best Practice
 
-<image src="/image/0517/shuren.jpg" style="width:100%">
+<image src="/image/0517/shuren.jpg" style="width:100%"/>
 
 Chen Fu介绍了树人科技在Mesos使用方面的实战经验。
 
