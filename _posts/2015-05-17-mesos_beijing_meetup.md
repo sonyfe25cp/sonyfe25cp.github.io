@@ -4,7 +4,6 @@ title: "Mesos北京线下见面交流会in树人科技"
 category: docker
 ---
 
-###Mesos Beijing Meetup
 
 5月17日下午，Mesos北京线下交流会在数人科技会议室举行，来自各行业对Mesos感兴趣的约40名技术人参加了此次活动，其中Hyper的创始人王旭对Hyper做了技术报告，LeiSu对IBM EGO做了详细的介绍，之后树人科技的Chen Fu对Mesos的最佳实践进行了技术分享。
 
