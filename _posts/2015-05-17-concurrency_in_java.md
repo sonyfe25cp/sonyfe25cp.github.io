@@ -1,12 +1,13 @@
-
-
-
-##Concurrency in Swing
+---
+layout: post
+title: "Concurrency in JAVA"
+category: java
+---
 
 
 ###Introduction
 
-电脑可以同时做多件事情
+电脑可以同时做多件事情，于是并发就成了码农的必备技能。复习下并发中的各种知识和问题。
 
 ###Thread Interference
 
