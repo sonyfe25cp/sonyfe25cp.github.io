@@ -1,4 +1,8 @@
-
+---
+layout: post
+title: "Mesos北京线下见面交流会in树人科技"
+category: docker
+---
 
 ###Mesos Beijing Meetup
 
