@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Mesos北京线下见面交流会in树人科技"
+title: "Mesos北京线下见面交流会in数人科技"
 category: docker
 ---
 
 
-5月17日下午，Mesos北京线下交流会在树人科技会议室举行，来自各行业对Mesos感兴趣的约40名技术人参加了此次活动，其中Hyper的创始人王旭对Hyper做了技术报告，LeiSu对IBM EGO做了详细的介绍，之后树人科技的Chen Fu对Mesos的最佳实践进行了技术分享。
+5月17日下午，Mesos北京线下交流会在数人科技会议室举行，来自各行业对Mesos感兴趣的约40名技术人参加了此次活动，其中Hyper的创始人王旭对Hyper做了技术报告，LeiSu对IBM EGO做了详细的介绍，之后数人科技的Chen Fu对Mesos的最佳实践进行了技术分享。
 
 <image src="/image/0517/Haolin.jpg" style="width:100%"/>
 
-活动开始，郝林宣布本次线下活动正式开始，然后对下午的活动内容做了介绍，对树人科技的支持表示感谢，并欢迎参会人员。
+活动开始，郝林宣布本次线下活动正式开始，然后对下午的活动内容做了介绍，对数人科技的支持表示感谢，并欢迎参会人员。
 
 ###王旭：Hyper技术分享
 
@@ -48,9 +48,9 @@ QA：
 
 <image src="/image/0517/shuren.jpg" style="width:100%"/>
 
-Chen Fu介绍了树人科技在Mesos使用方面的实战经验。
+Chen Fu介绍了数人科技在Mesos使用方面的实战经验。
 
-树人科技目前有做自己的Mesos发行版，主要是针对Ubuntu和Centos。ChenFu通过现场的操作演示了如何使用该版本并建立一个单机测试版本的mesos。
+数人科技目前有做自己的Mesos发行版，主要是针对Ubuntu和Centos。ChenFu通过现场的操作演示了如何使用该版本并建立一个单机测试版本的mesos。
 
 然后他介绍了如何用marathon来调度Mesos。由于其自带的界面提供的功能相对简单，更多的功能需要通过API来完成。在现场，他操作并演示了如何通过RESTful的API对已创建的应用进行管理。其中，对Constrain和Cluster部分进行了重点讲解和演示。
 
@@ -61,6 +61,6 @@ Chen Fu介绍了树人科技在Mesos使用方面的实战经验。
 
 会后，大家对于各自在Mesos实际使用中遇到的问题分组进行了激烈的讨论。
 
-另外，树人科技表示将会在每个月组织Mesos的线下见面交流会。
+另外，数人科技表示将会在每个月组织Mesos的线下见面交流会。
 
 
