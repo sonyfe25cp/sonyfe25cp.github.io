@@ -16,15 +16,12 @@ category: java
 ```
 class Counter {
     private int c = 0;
-
     public void increment() {
         c++;
     }
-
     public void decrement() {
         c--;
     }
-
     public int value() {
         return c;
     }
@@ -68,15 +65,12 @@ Java中有两类同步：同步方法和同步声明。下面先说同步方法�
 ```
 public class SynchronizedCounter {
     private int c = 0;
-
     public synchronized void increment() {
         c++;
     }
-
     public synchronized void decrement() {
         c--;
     }
-
     public synchronized int value() {
         return c;
     }
@@ -195,6 +189,57 @@ public class Deadlock {
 ```
 
 ###Starvation and Livelock
+
+####Starvation
+
+>Starvation describes a situation where a thread is unable to gain regular access to shared resources and is unable to make progress. 
+
+例如一个对象提供了个同步方法，但是这个方法执行时间很长，当一个线程获得它之后，其他线程都在等它结束，就是这种情况。
+
+####Livelock
+
+如果一个线程负责提供给另一个线程结果，而这个线程还负责提供给第三个线程结果，那么这就形成了LiveLock。整个线程并没有block，它们只是在等前面的结果。
+
+###Guarded Blocks
+
+线程之间经常需要协调资源，如：
+
+```
+public void guardedJoy() {
+    // Simple loop guard. Wastes
+    // processor time. Don't do this!
+    while(!joy) {}
+    System.out.println("Joy has been achieved!");
+}
+```
+
+这样做会让线程在无限制的轮训，cpu就满了，很没有意义。
+改成如下这样能好一点：
+
+```
+public synchronized void guardedJoy() {
+    // This guard only loops once for each special event, which may not
+    // be the event we're waiting for.
+    while(!joy) {
+        try {
+            wait();
+        } catch (InterruptedException e) {}
+    }
+    System.out.println("Joy and efficiency have been achieved!");
+}
+```
+
+配合
+
+```
+public synchronized notifyJoy() {
+    joy = true;
+    notifyAll();
+}
+```
+
+就可以使得某个线程在获得该对象锁之后，执行了notifyJob后会notifyAll，然后某个获得了锁的就可以执行guardedJoy了。
+
 
 
 

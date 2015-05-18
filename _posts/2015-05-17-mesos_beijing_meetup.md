@@ -5,7 +5,7 @@ category: docker
 ---
 
 
-5月17日下午，Mesos北京线下交流会在数人科技会议室举行，来自各行业对Mesos感兴趣的约40名技术人参加了此次活动，其中Hyper的创始人王旭对Hyper做了技术报告，LeiSu对IBM EGO做了详细的介绍，之后树人科技的Chen Fu对Mesos的最佳实践进行了技术分享。
+5月17日下午，Mesos北京线下交流会在树人科技会议室举行，来自各行业对Mesos感兴趣的约40名技术人参加了此次活动，其中Hyper的创始人王旭对Hyper做了技术报告，LeiSu对IBM EGO做了详细的介绍，之后树人科技的Chen Fu对Mesos的最佳实践进行了技术分享。
 
 <image src="/image/0517/Haolin.jpg" style="width:100%"/>
 
@@ -41,7 +41,7 @@ EGO是一个企业级资源管理的解决方案。它包含一整套的企业�
 
 QA：
 如何回到社区？
-由于EGO本身不是开源，如何回到开源有很多问题。虽然EGO已经功能很多，但还是希望可以回归MESOS，增强生态，使得两方在社区的帮助下都获得足够的发展。
+由于EGO本身不是开源，如何回到开源有很多问题。虽然EGO已经功能很多，但还是希望可以回归Mesos，增强生态，使得两方在社区的帮助下都获得足够的发展。
 
 
 ###Chen Fu：Dataman Mesos Best Practice
