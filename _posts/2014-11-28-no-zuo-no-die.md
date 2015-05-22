@@ -64,15 +64,13 @@ category: plan
 * 4月20 CBDCom2015 http://www.cybermatics.org/SWC2015/CFP/CBDCom2015_CFP_v3.0.pdf 北京 大数据相关 x
 * 4月20号之前注册 waim 3800元 √
 * 5月1号 CIKM abstract http://www.cikm-2015.org/key-dates.php √
-* 5月7号BigData会议 EI http://perso.orange.es/web126209/ 一个月
-http://dblp.uni-trier.de/db/conf/ficloud/ficloud2014.html
-* 5月8号 CIKM FULL PAPER
-* 5月28 BigData会议 acceptance
+* 5月8号 CIKM FULL PAPER √
 * 5月31 3rd-ICATC-2015 http://www.icatc.org/index.html
 * 5月31 EMNLP http://www.emnlp2015.org/
 * 5月31 APWeb acceptence notifaction
-* 6月30 KSEM 霞姐是member
+* 6月7号 KSEM 霞姐是member
 * 7月1号 第三届CCF大数据学术会议http://www.ccf.org.cn/sites/ccf/xhdtnry.jsp?contentId=2860516742923 第二届的论文：http://pasa-bigdata.nju.edu.cn/ccf-bigdata2014/download.html
+* 7月15号 KSEM acceptence
 * 7月24 EMNLP acceptence notifaction
 
 ###研究点
