@@ -23,9 +23,9 @@ category: plan
 * 著作权提交
 * 微信账号抓取 √
 * 微信文章抓取 √
-* webrisk1.0版本 
+* webrisk1.0版本  √
   新闻 √
-  评论
+  评论 √
   简历关系数据
   招聘数据
   用电
@@ -56,7 +56,6 @@ category: plan
 * 3月24 WAIM final paper √
 * 3月24 APWeb abstract paper √
 * 3月31 WebDB paper http://dbweb.enst.fr/events/webdb2015/ x
-* 3月31 HRMS http://hrms.uib.es/ 第一届，HR相关 x
 * 3月31 APWeb Research Paper √
 * 4月7号 Biological Knowledge Discovery and Data Mining (BIOKDD2015),第六届，BIO相关 x
 * 4月20 提交盲审 x
@@ -65,22 +64,20 @@ category: plan
 * 4月20号之前注册 waim 3800元 √
 * 5月1号 CIKM abstract http://www.cikm-2015.org/key-dates.php √
 * 5月8号 CIKM FULL PAPER √
-* 5月31 3rd-ICATC-2015 http://www.icatc.org/index.html
-* 5月31 EMNLP http://www.emnlp2015.org/
-* 5月31 APWeb acceptence notifaction
+* 5月31 EMNLP http://www.emnlp2015.org/ x
+* 5月31 APWeb acceptence notifaction √
 * 6月7号 KSEM 霞姐是member
 * 7月1号 第三届CCF大数据学术会议http://www.ccf.org.cn/sites/ccf/xhdtnry.jsp?contentId=2860516742923 第二届的论文：http://pasa-bigdata.nju.edu.cn/ccf-bigdata2014/download.html
 * 7月15号 KSEM acceptence
-* 7月24 EMNLP acceptence notifaction
 
 ###研究点
 
 * 多文本摘要 √
-  论文投稿中
+  论文已中 √
 * 简历抽取算法 √
   论文已中 √
-  再扩展成一个长文投期刊
-* 评论质量评估 x
+  再扩展成一个长文投期刊  √
+* 评论质量评估 
   利用amazon数据、阅读别人论文、查2014和2013的WebDB论文找相关
     数据量大
     英文的比较难懂
@@ -90,11 +87,11 @@ category: plan
     实用价值高
     中文易懂
     分词等特征易于实现
-    WebDB
 * 大数据环境下企业网络信誉评估架构研究
   写个中文的，投个渣渣中文期刊
 * bio文献摘要方法
   有标注数据
+  坑太大，算了吧
 
 ###毕设有关
 
