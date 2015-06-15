@@ -70,14 +70,17 @@ Detailed Comments
 	
 	- presentation issues:
 	-- the statement "LSA is introduced to [...] find the core words of a document" is not quite true. It can be used to do so, but I wouldn't say it has been introduced to do that. Presumably the authors use the term-vectors to compute similarities with the document vectors and rank terms for each document, but the paper fails to describe this procedure. 
-	-- acronym TS is used without definition (presumably timeline summary)
-	-- modes --> models
-	-- "However" (just after Eq 3) introduces a contradiction to a previous statement. It's not clear what the contradiction should be here.
-	- other thoughts:
-		-- why use TF when other weighting schemes are proven better (BM25, for instance)
-		-- wouldn't it make more sense to use a new text at time t+1 to identify a sentence summarizing the events at time t?
+	-- acronym TS is used without definition (presumably timeline summary) √
+	-- modes --> models √
+	-- "However" (just after Eq 3) introduces a contradiction to a previous statement. It's not clear what the contradiction should be here. √
 		
 		擦，一坨语法错误
+		
+	- other thoughts:
+		-- why use TF when other weighting schemes are proven better (BM25, for instance)
+		-- wouldn't it make more sense to use a new text at time t+1 to identify a sentence summarizing the events at time t? 
+		
+
 
 ###Masked Reviewer ID:	Assigned_Reviewer_2
 Review:	
@@ -127,7 +130,7 @@ Detailed Comments
 	
 	Another weak point is that there are many grammatical errors and both abbreviations and full titles of conferences intermingle in the references.
 	
-	语法错误还是多的不要不要的。
+	语法错误还是多的不要不要的,参考文献中会议名字有全称有缩写。
 
 ###Masked Reviewer ID:	Assigned_Reviewer_3
 Review:	

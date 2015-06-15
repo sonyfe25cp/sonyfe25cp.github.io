@@ -66,9 +66,9 @@ category: plan
 * 5月8号 CIKM FULL PAPER √
 * 5月31 EMNLP http://www.emnlp2015.org/ x
 * 5月31 APWeb acceptence notifaction √
-* 6月7号 KSEM 霞姐是member
+* 6月13 准备EXPERT system and applications 论文
+* 6月14 apweb 最终版提交
 * 7月1号 第三届CCF大数据学术会议http://www.ccf.org.cn/sites/ccf/xhdtnry.jsp?contentId=2860516742923 第二届的论文：http://pasa-bigdata.nju.edu.cn/ccf-bigdata2014/download.html
-* 7月15号 KSEM acceptence
 
 ###研究点
 
@@ -77,16 +77,29 @@ category: plan
 * 简历抽取算法 √
   论文已中 √
   再扩展成一个长文投期刊  √
+  投稿长文至期刊
 * 评论质量评估 
-  利用amazon数据、阅读别人论文、查2014和2013的WebDB论文找相关
-    数据量大
-    英文的比较难懂
-    时间有点紧张
-  利用看准人工标注数据，抽取特征，拟合分类器，看评分标准  √
-    数据量小
-    实用价值高
-    中文易懂
-    分词等特征易于实现
+  
+  1. 利用amazon数据、阅读别人论文、查2014和2013的WebDB论文找相关
+	
+			数据量大、英文的比较难懂、时间有点紧张
+    
+  2. 利用看准人工标注数据，抽取特征，拟合分类器，看评分标准  √
+
+			数据量小、实用价值高、中文易懂、分词等特征易于实现
+  
+			分析标注数据的bias情况
+			推荐标注数据评价方法：kappa alpha
+			实验LDA的抽取模型
+			使用word2vec的词模型分析评论
+			实现虚拟最佳评论的那篇论文的方法
+			实现一个有监督学习的评论方法
+			增加NKcluster的例子说明
+			实现个其他的聚类方法
+			聚类质量的判断
+			实验出自己的排序方法
+
+
 * 大数据环境下企业网络信誉评估架构研究
   写个中文的，投个渣渣中文期刊
 * bio文献摘要方法
