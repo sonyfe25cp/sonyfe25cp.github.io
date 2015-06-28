@@ -6,14 +6,14 @@ category: docker
 
 6月28日下午，第二次Mesos北京线下交流会在西小口去哪儿会议室举行，来自各行业对Mesos感兴趣的约30名技术人参加了此次活动。本次活动中，开放云精选创始人李建盛、数人科技云周伟涛、英特尔中国上海分公司罗钟悦、LeanCloud的王滨和时速云的杨乐给大家做了精彩的技术分享。
 
-<img src="/images/0620/xiaodeshi.jpg" style="width:100%">
+<img src="/image/0620/xiaodeshi.jpg" style="width:100%"/>
 
 本次线下交流会由数人科技的肖德时主持，对大家能够在如此炎热的中午参加这么一个技术交流会表示了感谢和欢迎。
 
 ###开放云精选创始人李建盛
 
 
-<img src="/images/0620/os.jpg" style="width:100%">
+<img src="/image/0620/os.jpg" style="width:100%"/>
 
 李建盛介绍自己对Mesos已经有3个月的学习时间了，然后引用了黑客帝国中尼奥拿起红色药丸进入矩阵的故事，开始介绍接触Docker的感受。随着对Docker使用的深入，开始接触Mesos并进行研究。
 
@@ -25,7 +25,7 @@ category: docker
 
 
 ###数人科技-Mesos持久化存储初探
-<img src="/images/0620/shuren.jpg" style="width:100%">
+<img src="/image/0620/shuren.jpg" style="width:100%"/>
 在数人科技周伟涛简短的自我介绍之后，他开始对Mesos进行分析，由于Mesos对无状态的服务（如Spark这种）支持的很好，但是对Mysql这种需要持久化的东西支持的很一般，于是在Mesos上持久化数据的需求就很有必要。
 
 这个内容主要分以下几个部分来讲，分别是：在0.22Mesos中如何玩持久化、在0.23中对持久化卷的细节介绍（磁盘隔离等）、持久化卷与独立/共享文件系统以及向社区可以做些什么贡献（去中心化的数据服务等）。
@@ -39,7 +39,7 @@ category: docker
 
 ###Intel Mesos Ceph Framework
 
-<img src="/images/0620/intel.jpg" style="width:100%">
+<img src="/image/0620/intel.jpg" style="width:100%"/>
 
 罗钟悦讲师专程从南京坐飞机过来北京参加此次的线下交流会，他来自Intel中国上海分公司。这次来给大家分享的内容是他们自行研发的Mesos Ceph Framework。他在接触Mesos之前做了多年的Openstack研究，由于Openstack的太多坑而放弃并选择了Mesos。
 
@@ -50,7 +50,7 @@ category: docker
 
 ###LeanCloud 使用者的角度看Mesos
 
-<img src="/images/0620/wangbin.jpg" style="width:100%">
+<img src="/image/0620/wangbin.jpg" style="width:100%"/>
 
 来自LeanCloud的王滨从一个使用者的角度给大家分享了他们使用Mesos的经验。由于在分布式环境下contab没法维护，于是他们找到了Mesos这个解决方案。在生产环节中，很多场景类似这样“统计模块貌似有问题，你去实时通信02那台机器上看一下”，这些都是混合部署（多种服务混合在不同的机器上）造成的。在以前使用虚拟机的时候，由于很多虚拟机跑在一个母鸡上，而该母鸡的load由于其他因素提高了，导致某些虚拟机莫名其妙的load高了，这个场景也使得虚机不如容器化的方案。
 
@@ -65,7 +65,7 @@ category: docker
 
 ###时速云 Kubernetes和Mesos在集群管理的应用和实践
 
-<img src="/images/0620/rongqiguanli.jpg" style="width:100%">
+<img src="/image/0620/rongqiguanli.jpg" style="width:100%"/>
 
 杨乐的分享主题是浅谈容器集群管理，从使用角度来讲解容器集群管理，主要是说mesos和Kubernetes的特点，其中更侧重Kubernetes的管理、集群，希望能够给大家带来一些集群管理上的启示。
 
