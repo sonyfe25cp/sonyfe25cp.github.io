@@ -10,7 +10,7 @@ category: docker
 
 本次线下交流会由数人科技的肖德时主持，对大家能够在如此炎热的中午参加这么一个技术交流会表示了感谢和欢迎。
 
-###开放云精选创始人李建盛
+###数据中心操作系统简析
 
 
 <img src="/image/0628/os.jpg" style="width:100%"/>
@@ -24,7 +24,7 @@ category: docker
 
 
 
-###数人科技-Mesos持久化存储初探
+###Mesos持久化存储初探
 <img src="/image/0628/shuren.jpg" style="width:100%"/>
 在数人科技周伟涛简短的自我介绍之后，他开始对Mesos进行分析，由于Mesos对无状态的服务（如Spark这种）支持的很好，但是对Mysql这种需要持久化的东西支持的很一般，于是在Mesos上持久化数据的需求就很有必要。
 
@@ -37,7 +37,7 @@ category: docker
 	c. 增加一个分布式文件系统（延迟）
 	d. 采用已经是数据分片的系统，如Cassandra
 
-###Intel Mesos Ceph Framework
+###Mesos Ceph Framework
 
 <img src="/image/0628/intel.jpg" style="width:100%"/>
 
@@ -48,7 +48,7 @@ category: docker
 最后用视频演示了该framework在实际中使用的情况，同时公布了该项目的开源地址：http://github.com/intel-bigdata/ceph-mesos。
 
 
-###LeanCloud 使用者的角度看Mesos
+###Mesoso在LeanCloud的使用
 
 <img src="/image/0628/wangbin.jpg" style="width:100%"/>
 
@@ -63,7 +63,7 @@ category: docker
 最后，针对Marathon调度的特性，他展开了一系列的脑洞，包括codis、spark、flocker之类的。
 
 
-###时速云 Kubernetes和Mesos在集群管理的应用和实践
+###Kubernetes和Mesos在集群管理的应用和实践
 
 <img src="/image/0628/rongqiguanli.jpg" style="width:100%"/>
 
