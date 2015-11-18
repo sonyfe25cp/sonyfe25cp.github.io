@@ -129,6 +129,11 @@ category: plan
 * 11月12号 AAAI acceptance notification
 * 11月15号 争取送审大论文
 * 11月23号 AAAI-EC2016 acceptance notification
+* 2015.12.18 iswc2016 http://iswc2016.semanticweb.org/pages/important-dates.html
+* 2016.01.08 WAIM
+* 2016.1.14 SigIR
+* 2016.1.27 IJCAI
+* 
 
 
 
