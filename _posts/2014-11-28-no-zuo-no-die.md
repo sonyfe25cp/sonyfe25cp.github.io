@@ -137,6 +137,30 @@ category: plan
 * 对比几个聚类算法
 * 聚类内的排序解决
 * WebRisk项目的安装和部署
+  * DUC2002数据集 正例样本和负例样本的对比图
+  * TAC2010数据集 正例样本和负例样本的对比图
+  * 中文简历1w份的文本长度图
+  * 评价模型的相关文档 √
+  * 多文档摘要的大论文部分 √
+  * 简历解析的大论文部分
+  * 绪论中的研究问题
+  * 论文的后续工作总结
+  * Amazon的数据预处理
+  * 评论质量分析的多种方法对比和整理
+  * 思考专利的点 √
+  * 重新整理简历抽取算法系统论文
+* 10月第2周 整体修改大论文
+* 10月第3周 开始磨老板改论文
+* 10月23号 AAAI-EC2016 http://trust.sce.ntu.edu.sg/wit-ec16/index.html
+* 10月28号 AAAI feedback
+* 11月12号 AAAI acceptance notification
+* 11月15号 争取送审大论文
+* 11月23号 AAAI-EC2016 acceptance notification
+* 2015.12.18 iswc2016 http://iswc2016.semanticweb.org/pages/important-dates.html
+* 2016.01.08 WAIM
+* 2016.1.14 SigIR
+* 2016.1.27 IJCAI
+* 
 
 
 
