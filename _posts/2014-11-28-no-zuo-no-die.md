@@ -124,7 +124,7 @@ category: plan
 * Docker化SpiderCluster √
 * Docker化WebRisk项目 x
 * 10月第2周 整体修改大论文 x
-* 10月第3周 开始磨老板改论文 x
+* 10月第3周 开始改论文 x
 * 11月15号 争取送审大论文 x
 * 10月第2周 整体修改大论文
 * 10月第3周 开始磨老板改论文
@@ -148,9 +148,10 @@ category: plan
 * 把qian的中文处理部分加入大论文
 * 把qian的英文处理部分也加入大论文
 * 实现MMR
-* 对比几个聚类算法
+* 对比几个聚类算法 
 * 聚类内的排序解决
 * WebRisk项目的安装和部署 √
+* 整理思路写评论有用性预测的英文论文
 * 2015.12.18 iswc2016 http://iswc2016.semanticweb.org/pages/important-dates.html
 * 2016.01.08 WAIM
 * 2016.1.14 SigIR
