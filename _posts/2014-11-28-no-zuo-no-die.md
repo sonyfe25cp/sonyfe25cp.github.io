@@ -145,18 +145,30 @@ category: plan
 * 重整评论分析项目，把英文语料加入
 * 解决tokudb的安装，把简历数据导入
 * 完成大论文中简历部分的数据支持
-* 把qian的中文处理部分加入大论文
+* 把qian的中文处理部分加入大论文 √
 * 把qian的英文处理部分也加入大论文
 * 实现MMR
 * 对比几个聚类算法 
 * 聚类内的排序解决
 * WebRisk项目的安装和部署 √
-* 整理思路写评论有用性预测的英文论文
-* 2015.12.18 iswc2016 http://iswc2016.semanticweb.org/pages/important-dates.html
-* 2016.01.08 WAIM
-* 2016.1.14 SigIR
+* 2015.12.18 iswc2016 http://iswc2016.semanticweb.org/pages/important-dates.html x
+==================================20151221重来=========================
+* 梳理大论文中评论质量预测部分的文字
+* 2015.12.21 评论英文Introduction部分
+* 2015.12.22 评论英文Related work部分
+* 2015.12.23 评论之方法的特征选择部分
+* 2015.12.24 评论之方法的聚类部分
+* 2015.12.25 评论之实验部分
+* 2015.12.31 完成大论文评论部分
+* 2016.01.08 WAIM 长文
+  内容为中文评论的处理，利用MI挑选特征，在分类的上面验证这些词的区分性，提出新的特征，在libsvm上进行实验验证，并对比其他几种方法，对比新特征的提升
+* 2016.1.14 SigIR 短文
+  内容为英文评论的处理，创新点为结合聚类方法，在特征方面引入新特征，然后进行聚类，最后通过libsvm进行判断。
 * 2016.1.27 IJCAI
-* 
+* 2016.2.11 SigIR short paper and demo deadline http://sigir.org/sigir2016/important-datesp/
+* 2016.2.12 NAACL demo paper deadline http://naacl.org/naacl-hlt-2016/demos.html
+* 2016.3.18 NAACL demo paper acceptence
+* 2016.3.31 SigIR short paper and demo acceptence
 
 
 
