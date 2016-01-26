@@ -167,7 +167,9 @@ category: plan
 * 2016.1.27 IJCAI
 * 2016.2.11 SigIR short paper and demo deadline http://sigir.org/sigir2016/important-datesp/
 * 2016.2.12 NAACL demo paper deadline http://naacl.org/naacl-hlt-2016/demos.html
+* 2016.3.6 IJCAI demo paper deadline http://ijcai-16.org/index.php/welcome/view/call_for_demos
 * 2016.3.18 NAACL demo paper acceptence
+* 2016.4.8 IJCAI demo paper acceptence
 * 2016.3.31 SigIR short paper and demo acceptence
 
 
