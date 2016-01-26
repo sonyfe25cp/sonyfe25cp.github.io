@@ -164,13 +164,16 @@ category: plan
   内容为中文评论的处理，利用MI挑选特征，在分类的上面验证这些词的区分性，提出新的特征，在libsvm上进行实验验证，并对比其他几种方法，对比新特征的提升
 * 2016.1.14 SigIR 短文
   内容为英文评论的处理，创新点为结合聚类方法，在特征方面引入新特征，然后进行聚类，最后通过libsvm进行判断。
-* 2016.1.27 IJCAI
-* 2016.2.11 SigIR short paper and demo deadline http://sigir.org/sigir2016/important-datesp/
+* 2016.1.27 IJCAI abstract
+* 2016.1.30 WAIM paper deadline
+* 2016.2.2 IJCAI paper deadline
+* 2016.2.11 SigIR short paper and demo deadline http://sigir.org/sigir2016/important-datesp/  4页，双栏
 * 2016.2.12 NAACL demo paper deadline http://naacl.org/naacl-hlt-2016/demos.html
 * 2016.3.6 IJCAI demo paper deadline http://ijcai-16.org/index.php/welcome/view/call_for_demos
 * 2016.3.18 NAACL demo paper acceptence
-* 2016.4.8 IJCAI demo paper acceptence
+* 2016.3.20 WAIM paper acceptence notifaction
 * 2016.3.31 SigIR short paper and demo acceptence
+* 2016.4.8 IJCAI demo paper acceptence
 
 
 
