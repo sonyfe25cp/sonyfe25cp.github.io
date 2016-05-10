@@ -165,9 +165,9 @@ category: plan
 * 2016.1.14 SigIR 短文
   内容为英文评论的处理，创新点为结合聚类方法，在特征方面引入新特征，然后进行聚类，最后通过libsvm进行判断。
 * 2016.1.27 IJCAI abstract
-* 2016.1.30 WAIM paper deadline
-* 2016.2.2 IJCAI paper deadline
-* 2016.2.11 SigIR short paper and demo deadline http://sigir.org/sigir2016/important-datesp/  4页，双栏
+* 2016.1.30 WAIM paper deadline  --- blog opinion
+* 2016.2.2 IJCAI paper deadline --- english review
+* 2016.2.11 SigIR short paper and demo deadline http://sigir.org/sigir2016/important-datesp/  4页，双栏 --- chinese review 
 * 2016.2.12 NAACL demo paper deadline http://naacl.org/naacl-hlt-2016/demos.html
 * 2016.3.6 IJCAI demo paper deadline http://ijcai-16.org/index.php/welcome/view/call_for_demos
 * 2016.3.18 NAACL demo paper acceptence
