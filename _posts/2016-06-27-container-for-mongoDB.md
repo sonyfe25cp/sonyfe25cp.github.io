@@ -29,3 +29,38 @@ Running MongoDB as a Microservice with Docker and Kubernetes
 
 ###利用Docker和Kubernetes实现MongoDB冗余备份
 
+如前一节所述，MongoDB这类分布式数据库在利用编排框架（如Kubernetes）进行部署时需要额外考虑。本节将对这部分细节进行分析，并介绍如何实现。
+
+首先，我们在一个单独的Kubernetes集群（同一个数据中心内，并不存在物理上的冗余备份）中创建整个MongoDB冗余集合。如果跨多个数据中心进行创建，其步骤也差异不大，后续将会介绍。
+
+备份中的每个成员都运行在独自的pod中，只暴露其ip地址和端口。固定的IP地址对于外部应用和其他冗余备份节点非常重要，它决定了哪些pod将被重新部署。
+
+下图展示了其中一个pod与关联的冗余控制器和服务的关系。
+
+xxxxxxxxxx
+
+深入这些配置中描述的资源，内容如下：
+
+* 启动核心节点`mongo-node1`。该节点包括了一个叫做的mongo的镜像，来源于[Docker Hub]，其暴露27107端口。
+* Kubernetes的`卷`特性用于映射`/data/db`文件夹到持久化目录mongo-persistent-storage1；该目录为Google Cloud上创建的目录映射mongodb-disk1，用于持久化MongoDB的数据。
+* 容器由pod进行管理，标记为mongo-node，同时对rod提供一个随机生成的名字。
+* 冗余控制器命名为mongo-rc1，用于确保mongo-node1的实例一直处于运行中。
+* 负载均衡服务命名为mongo-svc-a用27017暴露端口。该服务通过pod的标签匹配正确的服务到对应的pod上，对外暴露的ip和端口给应用程序使用，同时用于冗余备份集合中各节点的通信。虽然每个容器拥有内部ip，但是当容器被重启或者移动之后它们会变更，因此不能用于冗余备份集合之间的通信。
+
+下图展示了冗余备份及中的第二成员信息：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
