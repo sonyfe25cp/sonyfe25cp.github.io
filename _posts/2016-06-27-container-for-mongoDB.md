@@ -1,6 +1,12 @@
-Running MongoDB as a Microservice with Docker and Kubernetes
+---
+layout: post
+title: "在Docker和Kubernetes上运行MongoDB微服务"
+date: 2016-06-27 11:26:02
+category: docker
+---
 
-在Docker和Kubernetes上运行MongoDB微服务
+
+
 
 ##介绍
 想尝试在笔记本电脑上运行MongoDB么？执行一个简单的命令，然后你就有一个轻量级、自组织的沙盒；再通过一条命令就可以移除所有的痕迹。

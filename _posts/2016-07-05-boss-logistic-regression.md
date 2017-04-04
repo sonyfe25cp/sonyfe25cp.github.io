@@ -1,3 +1,9 @@
+---
+layout: post
+title: "LDA的学习过程"
+date: 2014-05-07 11:26:02
+category: lda
+---
 ##回归模型
 
 ###线上：

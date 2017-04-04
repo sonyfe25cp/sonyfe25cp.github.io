@@ -1,5 +1,9 @@
-
-##Riddler助力Docker容器为runC运行环境做准备
+---
+layout: post
+title: "Riddler助力Docker容器为runC运行环境做准备"
+date: 2016-10-31 11:26:02
+category: docker
+---
 
 这是一个关于标准化带来的优势的故事，同时介绍如何利用[Riddler](https://github.com/jfrazelle/riddler)转换一个Docker容器为runC镜像。Riddler由容器开发者[Jess Frazelle](https://github.com/jfrazelle)研发。
 
